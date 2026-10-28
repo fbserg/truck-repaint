@@ -34,6 +34,8 @@ description=
 description=[h2]Credits[/h2]
 description=KI5 made the trucks and every texture this mod switches between. Nothing is copied or changed. The bus camo is KI5's own military bus texture, reused on its twin body. Project Zomboid supplies the paint, brush, animation, sound and multiplayer sync. HDCP Immersive Vehicle Paint and Paint Your Ride inspired the idea. Their code is not used.
 description=
+description=[i]No human has ever opened this mod's folder. Good luck![/i]
+description=
 description=[url=https://github.com/fbserg/truck-repaint]Source code & bug reports on GitHub[/url] · MIT license.
 tags=Build 42;Vehicles;Misc
 visibility=public

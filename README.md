@@ -4,6 +4,8 @@ A Build 42.21 add-on for KI5's [’87 Ford B700/F700 Trucks](https://steamcommun
 with optional support for KI5's [’86 Oshkosh P19A](https://steamcommunity.com/sharedfiles/filedetails/?id=2566953935).
 It lets a player repaint a truck or bus into one of its plain factory skins with vanilla paint buckets and a paintbrush.
 
+*No human has ever opened this folder. Good luck!*
+
 Source: https://github.com/fbserg/truck-repaint (MIT). Workshop: [3828587831](https://steamcommunity.com/sharedfiles/filedetails/?id=3828587831).
 
 ## Gameplay
